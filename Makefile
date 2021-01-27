@@ -143,7 +143,7 @@ Tools/cadet-git/cadet: Tools/cadet-git
 	make -C Tools/cadet-git
 
 Tools/cadet-git: Tools/.f
-	cd Tools ; git clone https://github.com/MarkusRabe/cadet.git cadet-git
+	cd Tools ; git clone https://github.com/nicola-gigante/cadet.git cadet-git
 
 # caqe
 Tools/caqe: Tools/caqe-src/target/release/caqe
